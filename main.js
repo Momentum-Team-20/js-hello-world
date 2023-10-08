@@ -42,6 +42,7 @@ console.log('You can also log any output from your JavaScript files here.')
 // Predict what `result` will return here. Then uncomment the following lines and check the console to verify.
 
 // result = score1 - "5"
+console.log('Result is:', result)
 
 // 8. Create a variable to calculate the total number of tacos and burritos.
 // Log a sentence that tells the user the total number.
